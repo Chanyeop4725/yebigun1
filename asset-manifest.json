@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yebigun1/static/css/main.a0f5f2df.css",
+    "main.js": "/yebigun1/static/js/main.bc9dddf2.js",
+    "static/js/453.7c2d5c07.chunk.js": "/yebigun1/static/js/453.7c2d5c07.chunk.js",
+    "static/media/NotoSansKR-Medium.woff": "/yebigun1/static/media/NotoSansKR-Medium.26f9aa146669475ab2f4.woff",
+    "static/media/Roboto-Medium.woff": "/yebigun1/static/media/Roboto-Medium.44f0515c8c7c844e3e2d.woff",
+    "static/media/slick.svg": "/yebigun1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/yebigun1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/yebigun1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/yebigun1/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/yebigun1/index.html",
+    "main.a0f5f2df.css.map": "/yebigun1/static/css/main.a0f5f2df.css.map",
+    "main.bc9dddf2.js.map": "/yebigun1/static/js/main.bc9dddf2.js.map",
+    "453.7c2d5c07.chunk.js.map": "/yebigun1/static/js/453.7c2d5c07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f5f2df.css",
+    "static/js/main.bc9dddf2.js"
+  ]
+}
